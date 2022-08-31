@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400&family=Josefin+Sans:wght@300;400&display=swap');
+
+
+@font-face {
+    font-family: apercu;
+    src: url(../src/resources/Fonts/ApercuPro-ExtraLight.ttf);
+  }
+  
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  .app{
+    font-family: 'Inter', sans-serif;
+  }
